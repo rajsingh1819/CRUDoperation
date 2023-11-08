@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "Rahul ",
+      "email": "rahul@gmail.com",
+      "phone": "090897864"
+    },
+    {
+      "name": "Sohan123",
+      "email": "Sohan@gmail.com",
+      "phone": "224278998",
+      "id": 4
+    },
+    {
+      "name": "Rohan",
+      "email": "rohan@gmail.com",
+      "phone": "4567891230",
+      "id": 6
+    },
+    {
+      "name": "Abhishek",
+      "email": "abhi@gmail.com",
+      "phone": "6980060",
+      "id": 10
+    },
+    {
+      "name": "Abhishek",
+      "email": "abhi@gmail.com",
+      "phone": "6980060",
+      "id": 12
+    },
+    {
+      "name": "Nitin",
+      "email": "nitin@gmail.com",
+      "phone": "2787220701",
+      "id": 13
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
